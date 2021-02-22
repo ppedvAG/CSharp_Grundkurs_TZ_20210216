@@ -57,79 +57,78 @@ C# Grundlagenkurs in Vollzeit vom 16.02.2021 bis 19.02.2021 - Trainer: Benedikt 
 - [x] Fragen [Link](Uebungen/Modul006_Fragen) 
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
-- [ ] Objekte <!--[Link](Uebungen/Modul007_01_Objekte/Program.cs)--> 
-- [ ] Konstruktor und Destruktor <!--[Link](Uebungen/Modul007_01_Objekte/Program.cs)--> 
-- [ ] Garbage Collection
-- [ ] Überladung <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/Ueberladung.cs)--> 
-- [ ] optionale Parameter <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/OptionaleParameter.cs)--> 
-- [ ] out <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortOut.cs)--> 
-- [ ] params <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortParams.cs)--> 
-- [ ] ref <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul007_Fragen)--> 
+- [x] Objekte [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
+- [x] Konstruktor und Destruktor [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
+- [x] Garbage Collection
+- [x] Überladung [Link](Uebungen/Modul007_02_UeberlagerungParameter/Ueberladung.cs) 
+- [x] optionale Parameter [Link](Uebungen/Modul007_02_UeberlagerungParameter/OptionaleParameter.cs) 
+- [x] out [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortOut.cs) 
+- [x] params [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortParams.cs) 
+- [x] ref [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs) 
+- [x] Fragen [Link](Uebungen/Modul007_Fragen) 
 
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
-- [ ] Vererbung <!--[Link](Uebungen/Modul008_01_Vererbungen/Program.cs)--> 
-- [ ] base 
-- [ ] Zugriffsmodifier <!--[Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul008_Fragen)--> 
+- [x] Vererbung [Link](Uebungen/Modul008_01_Vererbungen/Program.cs) 
+- [x] base 
+- [x] Zugriffsmodifier [Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul008_Fragen) 
 
 ## M009 | OOP - POLYMORPHISMUS VIRTUAL
-- [ ] Polymorphismus
-- [ ] virtuelle Member <!--[Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs)--> 
-- [ ] Member ausblenden <!--[Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs)--> 
-- [ ] Überschreibungen verhindern <!--[Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul009_Fragen)--> 
+- [x] Polymorphismus
+- [x] virtuelle Member [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs) 
+- [x] Member ausblenden [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) 
+- [x] Überschreibungen verhindern [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) 
+- [x] Fragen [Link](Uebungen/Modul009_Fragen) 
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
-- [ ] abstrakte Member und Klassen <!--[Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs)--> 
-- [ ] Typtest "GetType()-->" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)--> 
-- [ ] Typtest "typeof" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)--> 
-- [ ] Typtest "is" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul010_Fragen)--> 
+- [x] abstrakte Member und Klassen [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) 
+- [x] Typtest "GetType()" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "typeof" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "is" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul010_Fragen) 
 
 
 ## M011 | INTERFACES
-- [ ] Interface <!--[Link](Uebungen/Modul011_01_Interface/Program.cs)--> 
-- [ ] Interface ab C# 8 <!--[Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul011_Fragen)--> 
+- [x] Interface [Link](Uebungen/Modul011_01_Interface/Program.cs) 
+- [x] Interface ab C# 8 [Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul011_Fragen) 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
-- [ ] Listen <!--[Link](Uebungen/Modul012_01_Listen/List.cs)--> 
-- [ ] Dictionary <!--[Link](Uebungen/Modul012_01_Listen/Dictionary.cs)--> 
-- [ ] Stack <!--[Link](Uebungen/Modul012_01_Listen/Stack.cs)--> 
-- [ ] Queue <!--[Link](Uebungen/Modul012_01_Listen/Queue.cs)--> 
-- [ ] Hashtable <!--[Link](Uebungen/Modul012_01_Listen/Hashtable.cs)--> 
-- [ ] Tuple <!--[Link](Uebungen/Modul012_01_Listen/Tuple.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul012_Fragen)--> 
+- [x] Listen [Link](Uebungen/Modul012_01_Listen/List.cs) 
+- [x] Dictionary [Link](Uebungen/Modul012_01_Listen/Dictionary.cs) 
+- [x] Stack [Link](Uebungen/Modul012_01_Listen/Stack.cs) 
+- [x] Queue [Link](Uebungen/Modul012_01_Listen/Queue.cs) 
+- [x] Hashtable [Link](Uebungen/Modul012_01_Listen/Hashtable.cs) 
+- [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs) 
+- [x] Fragen [Link](Uebungen/Modul012_Fragen) 
 
 ## M013 | DELEGATES und EVENTS (optional)
-- [ ] Action <!--[Link](Uebungen/Modul013_01_Delegates/Action.cs)--> 
-- [ ] Predicate <!--[Link](Uebungen/Modul013_01_Delegates/Predicate.cs)--> 
-- [ ] Func <!--[Link](Uebungen/Modul013_01_Delegates/Func.cs)--> 
-- [ ] anonyme Methoden <!--[Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs)--> 
-- [ ] EventHandler <!--[Link](Uebungen/Modul013_02_Events/Program.cs)--> 
-- [ ] Timer <!--[Link](Uebungen/Modul013_03_Timer/Program.cs)--> 
+- [x] Action [Link](Uebungen/Modul013_01_Delegates/Action.cs) 
+- [x] Predicate [Link](Uebungen/Modul013_01_Delegates/Predicate.cs) 
+- [x] Func [Link](Uebungen/Modul013_01_Delegates/Func.cs) 
+- [x] anonyme Methoden [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) 
+- [x] EventHandler [Link](Uebungen/Modul013_02_Events/Program.cs) 
+- [x] Timer [Link](Uebungen/Modul013_03_Timer/Program.cs) 
 
 
 ## M014 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch <!--[Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs)--> 
-- [ ] Debugger 
-- [ ] UnitTests <!--[Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs)--> 
+- [x] Fehlertypen
+- [x] try-catch [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) 
+- [x] Debugger 
+- [x] UnitTests [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) 
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)-->
-- [ ] Dateidialog <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)-->
-- [ ] JSON <!--[Link](Uebungen/Modul015_02_JSON/Program.cs)-->
-- [ ] XML <!--[Link](Uebungen/Modul015_03_XML/Program.cs)-->
-- [ ] Fragen <!--[Link](Uebungen/Modul015_Fragen)-->
+- [x] Dateien lesen/schreiben [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] Dateidialog [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] JSON [Link](Uebungen/Modul015_02_JSON/Program.cs)
+- [x] XML [Link](Uebungen/Modul015_03_XML/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul015_Fragen)
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API <!--[Link](Uebungen/Modul016_API)-->
-- [ ] Console <!--[Link](Uebungen/Modul016_Console)-->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
+- [x] API [Link](Uebungen/Modul016_API)
+- [x] WPF [Link](Uebungen/Modul016_WPF)
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
 - [ ] Klassendiagramme
